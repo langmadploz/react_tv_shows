@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Stranger Things",
+    "description": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+    "image_path": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/ca1eb766-7cd2-4f28-95d4-e2c3e4befe09/FSkCESUWYAAThYb.jpeg",
+    "starring": "Winona Ryder, David Harbour, Millie Bobby Brown, Finn Wolfhard, Gaten Matarazzo",
+    "years": "2016-Present",
+    "network": "Netflix",
+    "rotten_tomatoes": "91%",
+    "genres": [
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Horror"
+      },
+      {
+        "name": "Mystery"
+      },
+      {
+        "name": "Drama"
+      }
+    ]
+  },
