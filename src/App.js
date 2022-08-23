@@ -1,6 +1,6 @@
 import './App.css'
 import showData from './data/show.json'
-import Show from './componenets/Show'
+import Show from './components/Show'
 
 const App = () => {
   return (
