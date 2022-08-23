@@ -1,4 +1,5 @@
 import Genre from './Genre'
+import Kid from './Kid'
 
 const Show = (props) => {
   return (
@@ -11,6 +12,9 @@ const Show = (props) => {
       <h3>Rotten Tomatoes Score: {props.show.rotten_tomatoes}</h3>
       {props.show.genres.map((genre) => (
         <Genre genre={genre} />
+      ))}
+      {props.show.for_kids.map((for_kids) => (
+        <Kid kid={kid} />
       ))}
     </div>
   )
