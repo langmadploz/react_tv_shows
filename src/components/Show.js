@@ -1,10 +1,10 @@
 import Genre from './Genre'
 
-const Show = {props} => {
+const Show = (props) => {
   return (
     <div className="show">
       <h1>{props.show.title}</h1>
-      <img src={props.show.image_path} />
+      <img src={props.show.image_path} alt={props.show.title} />
       <p>{props.show.description}</p>
       <h3>Years: {props.show.years}</h3>
       <h3>Network: {props.show.network}</h3>
@@ -15,3 +15,5 @@ const Show = {props} => {
     </div>
   )
 }
+
+export default Show
