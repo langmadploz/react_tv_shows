@@ -20,6 +20,11 @@
       {
         "name": "Drama"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
+      }
     ]
   },
   {
@@ -46,6 +51,11 @@
       {
         "name": "Black Comedy"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
+      }
     ]
   },
   {
@@ -69,12 +79,17 @@
       {
         "name": "Black Comedy"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
+      }
     ]
   },
   {
     "title": "Sex Education",
     "description": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
-    "image_path": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ylulnlieiffpuzdy_1629736533.jpeg?tr=w-1200,h-900",
+    "image_path": "https://cdn.mos.cms.futurecdn.net/UXCgzu9sNh2jYzhtREczE9.jpg",
     "starring": "Asa Butterfield, Gillian Anderson, Emma Mackey, Ncuti Gatwa, Connor Swindells",
     "years": "2019-Present",
     "network": "Netflix",
@@ -85,6 +100,11 @@
       },
       {
         "name": "Comedy-Drama"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
       }
     ]
   },
@@ -105,6 +125,11 @@
       },
       {
         "name": "Teen Drama"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
       }
     ]
   },
@@ -132,6 +157,11 @@
       {
         "name": "Period Drama"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
+      }
     ]
   },
   {
@@ -157,6 +187,11 @@
       },
       {
         "name": "Tragedy"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
       }
     ]
   },
@@ -184,6 +219,11 @@
       {
         "name": "Tragedy"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
+      }
     ]
   },
   {
@@ -207,6 +247,11 @@
       {
         "name": "Cringe Comedy"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "yes"
+      }
     ]
   },
   {
@@ -220,6 +265,11 @@
     "genres": [
       {
         "name": "Comedy"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
       }
     ]
   },
@@ -235,6 +285,11 @@
       {
         "name": "Cringe Comedy"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
+      }
     ]
   },
   {
@@ -248,6 +303,11 @@
     "genres": [
       {
         "name": "Reality"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
       }
     ]
   },
@@ -269,6 +329,11 @@
       {
         "name": "Cringe Comedy"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
+      }
     ]
   },
   {
@@ -288,6 +353,11 @@
       },
       {
         "name": "Comedy-Drama"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
       }
     ]
   },
@@ -309,6 +379,11 @@
       {
         "name": "Serial Drama"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
+      }
     ]
   },
   {
@@ -326,6 +401,11 @@
       {
         "name": "Sports"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
+      }
     ]
   },
   {
@@ -342,6 +422,11 @@
       },
       {
         "name": "Period Drama"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
       }
     ]
   },
@@ -363,6 +448,11 @@
       {
         "name": "Drama"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
+      }
     ]
   },
   {
@@ -380,6 +470,11 @@
       {
         "name": "Political Drama"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
+      }
     ]
   },
   {
@@ -393,6 +488,11 @@
     "genres": [
       {
         "name": "Reality"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "yes"
       }
     ]
   },
@@ -408,6 +508,11 @@
       {
         "name": "Reality"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "yes"
+      }
     ]
   },
   {
@@ -421,6 +526,11 @@
     "genres": [
       {
         "name": "Comedy-Drama"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
       }
     ]
   },
@@ -442,6 +552,11 @@
       {
         "name": "Tragedy"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
+      }
     ]
   },
   {
@@ -456,6 +571,11 @@
       {
         "name": "Reality"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "yes"
+      }
     ]
   },
   {
@@ -469,6 +589,11 @@
     "genres": [
       {
         "name": "Sitcom"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
       }
     ]
   },
@@ -490,6 +615,11 @@
       {
         "name": "Teen Drama"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
+      }
     ]
   },
   {
@@ -506,6 +636,11 @@
       },
       {
         "name": "Mystery"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
       }
     ]
   },
@@ -527,6 +662,11 @@
       {
         "name": "Comedy-Drama"
       }
+    ],
+    "for_kids": [
+      {
+        "answer": "maybe"
+      }
     ]
   },
   {
@@ -540,6 +680,11 @@
     "genres": [
       {
         "name": "Drama"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
       }
     ]
   },
@@ -569,6 +714,11 @@
       },
       {
         "name": "Period Drama"
+      }
+    ],
+    "for_kids": [
+      {
+        "answer": "no"
       }
     ]
   }
