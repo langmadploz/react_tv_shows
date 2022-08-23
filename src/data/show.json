@@ -21,9 +21,9 @@
         "name": "Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -52,9 +52,9 @@
         "name": "Black Comedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -80,9 +80,9 @@
         "name": "Black Comedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -102,9 +102,9 @@
         "name": "Comedy-Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -127,9 +127,9 @@
         "name": "Teen Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -158,9 +158,9 @@
         "name": "Period Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -189,9 +189,9 @@
         "name": "Tragedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -220,9 +220,9 @@
         "name": "Tragedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -248,9 +248,9 @@
         "name": "Cringe Comedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "yes"
+        "name": "TV-14"
       }
     ]
   },
@@ -267,9 +267,9 @@
         "name": "Comedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -286,9 +286,9 @@
         "name": "Cringe Comedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -305,9 +305,9 @@
         "name": "Reality"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -330,9 +330,9 @@
         "name": "Cringe Comedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -355,9 +355,9 @@
         "name": "Comedy-Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -380,9 +380,9 @@
         "name": "Serial Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -402,9 +402,9 @@
         "name": "Sports"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-MA"
       }
     ]
   },
@@ -424,9 +424,9 @@
         "name": "Period Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-MA"
       }
     ]
   },
@@ -449,9 +449,9 @@
         "name": "Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -471,9 +471,9 @@
         "name": "Political Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -490,9 +490,9 @@
         "name": "Reality"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "yes"
+        "name": "TV-14"
       }
     ]
   },
@@ -509,9 +509,9 @@
         "name": "Reality"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "yes"
+        "name": "TV-PG"
       }
     ]
   },
@@ -528,9 +528,9 @@
         "name": "Comedy-Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -553,9 +553,9 @@
         "name": "Tragedy"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-14"
       }
     ]
   },
@@ -572,9 +572,9 @@
         "name": "Reality"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "yes"
+        "name": "TV-PG"
       }
     ]
   },
@@ -591,9 +591,9 @@
         "name": "Sitcom"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -616,9 +616,9 @@
         "name": "Teen Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -638,9 +638,9 @@
         "name": "Mystery"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-MA"
       }
     ]
   },
@@ -663,9 +663,9 @@
         "name": "Comedy-Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "maybe"
+        "name": "TV-14"
       }
     ]
   },
@@ -682,9 +682,9 @@
         "name": "Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   },
@@ -716,9 +716,9 @@
         "name": "Period Drama"
       }
     ],
-    "for_kids": [
+    "ratings": [
       {
-        "answer": "no"
+        "name": "TV-MA"
       }
     ]
   }

@@ -1,5 +1,3 @@
-import { createPortal } from 'react-dom'
-
 // genres: Sitcom, Mockumentary, Cringe Comedy, Political Satire, Crime Drama, Thriller, Neo-Western, Black Comedy, Tragedy, Comedy-Drama, Historical Fiction, Satire, Period Drama, Science Fiction, Alternate History, Drama, Comedy, Action, Adventure, Fantasy, Teen Drama, Coming-of-Age, Romantic Comedy, Family Drama, Mystery, Dystopia, Reality, Horror, Sports, Historial Fiction, Serial Drama, Political Drama, Romance, Medical Drama, Romantic Drama, Psychological Thriller
 
 const Genre = (props) => {
@@ -92,9 +90,6 @@ const Genre = (props) => {
       break
     case 'Sports':
       color = 'powderblue'
-      break
-    case 'Historical Fiction':
-      color = 'rosybrown'
       break
     case 'Serial Drama':
       color = 'dodgerblue'
