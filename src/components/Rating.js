@@ -5,10 +5,10 @@ const Rating = (props) => {
 
   switch (props.rating.name) {
     case 'TV-PG':
-      text_color = 'chartreuse'
+      text_color = 'mediumseagreen'
       break
     case 'TV-14':
-      text_color = 'yellow'
+      text_color = 'orange'
       break
     case 'TV-MA':
       text_color = 'red'
