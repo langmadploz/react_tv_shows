@@ -11,14 +11,14 @@ const Show = (props) => {
       <h3>Years: {props.show.years}</h3>
       <h3>Network: {props.show.network}</h3>
       <h3>Rotten Tomatoes Score: {props.show.rotten_tomatoes}</h3>
-      {props.show.genres.map((genre) => (
-        <Genre genre={genre} />
+      {props.show.genres.map((genre, index) => (
+        <Genre genre={genre} key={index} />
       ))}
-      {props.show.emmys.map((emmy) => (
-        <Emmy emmy={emmy} />
+      {props.show.emmys?.map((emmy, index) => (
+        <Emmy emmy={emmy} key={index} />
       ))}
-      {props.show.ratings.map((rating) => (
-        <Rating rating={rating} />
+      {props.show.ratings.map((rating, index) => (
+        <Rating rating={rating} key={index} />
       ))}
     </div>
   )

@@ -28,7 +28,7 @@
     ],
     "emmys": [
       {
-        "name": "Winner of 8 Emmys"
+        "name": "Winner of 7 Primetime Emmys"
       }
     ]
   },
@@ -89,6 +89,11 @@
       {
         "name": "TV-MA"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 9 Primetime Emmys"
+      }
     ]
   },
   {
@@ -110,6 +115,11 @@
     "ratings": [
       {
         "name": "TV-MA"
+      }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 1 BAFTA Award"
       }
     ]
   },
@@ -198,6 +208,11 @@
       {
         "name": "TV-MA"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 59 Primetime Emmys"
+      }
     ]
   },
   {
@@ -228,6 +243,11 @@
     "ratings": [
       {
         "name": "TV-MA"
+      }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 16 Primetime Emmys"
       }
     ]
   },
@@ -339,6 +359,11 @@
       {
         "name": "TV-14"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 5 Primetime Emmys"
+      }
     ]
   },
   {
@@ -363,6 +388,11 @@
     "ratings": [
       {
         "name": "TV-14"
+      }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 9 Primetime Emmys"
       }
     ]
   },
@@ -411,6 +441,11 @@
       {
         "name": "TV-MA"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 7 Primetime Emmys"
+      }
     ]
   },
   {
@@ -432,6 +467,11 @@
     "ratings": [
       {
         "name": "TV-MA"
+      }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 20 Primetime Emmys"
       }
     ]
   },
@@ -458,6 +498,11 @@
       {
         "name": "TV-MA"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 1 Primetime Emmy"
+      }
     ]
   },
   {
@@ -480,6 +525,11 @@
       {
         "name": "TV-14"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 26 Primetime Emmys"
+      }
     ]
   },
   {
@@ -499,6 +549,11 @@
       {
         "name": "TV-14"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 9 Primetime Emmys"
+      }
     ]
   },
   {
@@ -517,6 +572,11 @@
     "ratings": [
       {
         "name": "TV-PG"
+      }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 17 Primetime Emmys"
       }
     ]
   },
@@ -562,6 +622,11 @@
       {
         "name": "TV-14"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 4 Primetime Emmys"
+      }
     ]
   },
   {
@@ -581,6 +646,11 @@
       {
         "name": "TV-PG"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 2 BAFTA Awards"
+      }
     ]
   },
   {
@@ -599,6 +669,11 @@
     "ratings": [
       {
         "name": "TV-14"
+      }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 6 Primetime Emmys"
       }
     ]
   },
@@ -672,6 +747,11 @@
       {
         "name": "TV-14"
       }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 4 Primetime Emmys"
+      }
     ]
   },
   {
@@ -690,6 +770,11 @@
     "ratings": [
       {
         "name": "TV-MA"
+      }
+    ],
+    "emmys": [
+      {
+        "name": "Winner of 1 Primetime Emmy"
       }
     ]
   },

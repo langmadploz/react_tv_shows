@@ -8,7 +8,7 @@ const App = () => {
       <h1>Lang's Favorite Shows In No Particular Order</h1>
       <div className="show-list">
         {showData.map((show) => (
-          <Show show={show} />
+          <Show show={show} key={show.image_path} />
         ))}
       </div>
     </div>

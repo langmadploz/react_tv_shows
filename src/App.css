@@ -5,3 +5,11 @@ body {
 h1 {
   color: darkturquoise;
 }
+
+img {
+  width: 60vw;
+}
+
+.genre {
+  width: 15vw;
+}
