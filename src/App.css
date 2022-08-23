@@ -1,15 +1,103 @@
 body {
   text-align: center;
+  background-color: whitesmoke;
 }
 
 h1 {
-  color: darkturquoise;
+  color: navy;
+  font-size: 80px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  font-variant: small-caps;
+  margin-bottom: 3vw;
+}
+
+h2 {
+  color:crimson;
+  font-size: xx-large;
+  font-family:'Monaco';
+  margin-bottom: 15px;
+  text-decoration-line: underline;
+  margin-top: 25px;
+}
+
+h3 {
+  font-family: monospace;
+  margin: 8px;
+  font-size: 18px;
+}
+
+p {
+  font-family: monospace;
+  margin-top: 25px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  width: 55vw;
+  color: navy;
 }
 
 img {
-  width: 60vw;
+  width: 45vw;
+  border: 5px solid black;
+  border-radius: 41px;
+  background: #f7fafd;
+  box-shadow:  14px 14px 15px #7c7d7f,
+               -14px -14px 15px #ffffff;
 }
 
 .genre {
-  width: 15vw;
+  width: 70vw;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  font-family: 'Monaco';
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 18x;
+}
+
+.morphbox {
+  display: flex;
+justify-content: center;
+align-items: center;
+height: 50px;
+width: 20vw;
+border-radius: 15px;
+background: linear-gradient(180deg, rgb(243, 213, 43), #e7aa31ec);
+box-shadow:  40px 40px 60px (#e7aa31ec),
+             -20px -20px 60px rgb(243, 213, 43);
+margin-top: 10px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.emmy {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.show {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70vw;
+  margin-bottom: 40px;
+  border: 2px solid lime;
+  background-color: white;
+}
+
+.emmy {
+  margin-bottom: 10px;
+}
+
+.rating {
+  margin-bottom: 25px;
 }
