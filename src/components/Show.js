@@ -9,6 +9,9 @@ const Show = {props} => {
       <h3>Years: {props.show.years}</h3>
       <h3>Network: {props.show.network}</h3>
       <h3>Rotten Tomatoes Score: {props.show.rotten_tomatoes}</h3>
+      {props.show.genres.map((genre) => (
+        <Genre genre={genre} />
+      ))}
     </div>
   )
 }
