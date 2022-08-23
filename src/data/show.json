@@ -22,3 +22,326 @@
       }
     ]
   },
+  {
+    "title": "Severance",
+    "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+    "image_path": "https://townsquare.media/site/838/files/2022/02/attachment-severance-ost.jpeg",
+    "starring": "Adam Scott, Britt Lower, Patricia Arquette, Zach Cherry, Tramell Tillman",
+    "years": "2022-Present",
+    "network": "Apple TV",
+    "rotten_tomatoes": "97%",
+    "genres": [
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Psychological Thriller"
+      },
+      {
+        "name": "Mystery"
+      },
+      {
+        "name": "Dystopia"
+      },
+      {
+        "name": "Black Comedy"
+      }
+    ]
+  },
+  {
+    "title": "Succession",
+    "description": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company.",
+    "image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0X9Yb_RdHw8xxw8KyHIUZmjg9yJwgjxVp-xUclvZcjqhXs42UUGI93iVWK7jWV7yeoBM&usqp=CAU",
+    "starring": "Brian Cox, Jeremy Strong, Kieran Culkin, Hiam Abbass, Sarah Snook",
+    "years": "2018-Present",
+    "network": "HBO Max",
+    "rotten_tomatoes": "94%",
+    "genres": [
+      {
+        "name": "Family Drama"
+      },
+      {
+        "name": "Comedy-Drama"
+      },
+      {
+        "name": "Satire"
+      },
+      {
+        "name": "Black Comedy"
+      }
+    ]
+  },
+  {
+    "title": "Sex Education",
+    "description": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+    "image_path": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ylulnlieiffpuzdy_1629736533.jpeg?tr=w-1200,h-900",
+    "starring": "Asa Butterfield, Gillian Anderson, Emma Mackey, Ncuti Gatwa, Connor Swindells",
+    "years": "2019-Present",
+    "network": "Netflix",
+    "rotten_tomatoes": "95%",
+    "genres": [
+      {
+        "name": "Teen Drama"
+      },
+      {
+        "name": "Comedy-Drama"
+      }
+    ]
+  },
+  {
+    "title": "Heartstopper",
+    "description": "Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series.",
+    "image_path": "https://m.media-amazon.com/images/M/MV5BNmYxZWMwZmItMGVkYS00YjIxLWExNTQtZTJkNWU0ODA0YTIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "starring": "Kit Connor, Joe Locke, William Gao, Yasmin Finney, Corinna Brown",
+    "years": "2022-Present",
+    "network": "Netflix",
+    "rotten_tomatoes": "100%",
+    "genres": [
+      {
+        "name": "Coming-of-Age"
+      },
+      {
+        "name": "Romantic Comedy"
+      },
+      {
+        "name": "Teen Drama"
+      }
+    ]
+  },
+  {
+    "title": "The Great",
+    "description": "A royal woman living in rural Russia during the 18th century is forced to choose between her own personal happiness and the future of Russia, when she marries an Emperor.",
+    "image_path": "https://flxt.tmsimg.com/assets/p17866118_b_h9_ab.jpg",
+    "starring": "Elle Fanning, Nicholas Hoult, Phoebe Fox, Adam Godley, Gwilym Lee",
+    "years": "2020-Present",
+    "network": "Hulu",
+    "rotten_tomatoes": "94%",
+    "genres": [
+      {
+        "name": "Comedy-Drama"
+      },
+      {
+        "name": "Historical Fiction"
+      },
+      {
+        "name": "Satire"
+      },
+      {
+        "name": "Black Comedy"
+      },
+      {
+        "name": "Period Drama"
+      }
+    ]
+  },
+  {
+    "title": "Game of Thrones",
+    "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "image_path": "https://thenichollsworth.com/wp-content/uploads/2021/04/00476D71-2C9A-4711-87A7-17BB9BC2A16D-661x900.jpeg",
+    "starring": "Peter Dinklage, Nikolaj Coster-Waldau, Lena Headey, Emilia Clarke, Aidan Gillen",
+    "years": "2011-2019",
+    "network": "HBO",
+    "rotten_tomatoes": "89%",
+    "genres": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Tragedy"
+      }
+    ]
+  },
+  {
+    "title": "Breaking Bad",
+    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+    "image_path": "https://i.pinimg.com/originals/05/e9/1a/05e91ad8f14bef57810399e14da2600f.jpg",
+    "starring": "Bryan Cranston, Aaron Paul, Anna Gunn, RJ Mitte, Dean Norris",
+    "years": "2008-2013",
+    "network": "AMC",
+    "rotten_tomatoes": "96%",
+    "genres": [
+      {
+        "name": "Crime Drama"
+      },
+      {
+        "name": "Thriller"
+      },
+      {
+        "name": "Neo-Western"
+      },
+      {
+        "name": "Black Comedy"
+      },
+      {
+        "name": "Tragedy"
+      }
+    ]
+  },
+  {
+    "title": "Parks and Recreation",
+    "description": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",
+    "image_path": "https://funnyordie.com/wp-content/uploads/2021/09/pr1__1_.jpeg",
+    "starring": "Amy Poehler, Rashida Jones, Paul Schneider, Aziz Ansari, Nick Offerman, Aubrey Plaza, Chris Pratt",
+    "years": "2009-2015",
+    "network": "NBC",
+    "rotten_tomatoes": "93%",
+    "genres": [
+      {
+        "name": "Sitcom"
+      },
+      {
+        "name": "Mockumentary"
+      },
+      {
+        "name": "Political Satire"
+      },
+      {
+        "name": "Cringe Comedy"
+      }
+    ]
+  },
+  {
+    "title": "Minx",
+    "description": "In 1970s Los Angeles, an earnest young feminist joins forces with a low-rent publisher to create the first erotic magazine for women.",
+    "image_path": "https://criticologos.com/wp-content/uploads/2022/05/p21542934_b_h8_ab-1024x576.jpeg",
+    "starring": "Ophelia Lovibond, Jake Johnson, Idara Victor, Oscar Montoya, Jessica Lowe",
+    "years": "2022-Present",
+    "network": "HBO Max",
+    "rotten_tomatoes": "97%",
+    "genres": [
+      {
+        "name": "Comedy"
+      }
+    ]
+  },
+  {
+    "title": "Pen15",
+    "description": "The comedic story of middle school seen through the eyes of two 7th grade girls dealing with the awkwardness of being a teenager.",
+    "image_path": "https://press.hulu.com/wp-content/uploads/2020/09/Title_PT_1920x1080.jpg?fit=1920%2C1080",
+    "starring": "Maya Erskine, Anna Konkle",
+    "years": "2019-2021",
+    "network": "Hulu",
+    "rotten_tomatoes": "97%",
+    "genres": [
+      {
+        "name": "Cringe Comedy"
+      }
+    ]
+  },
+  {
+    "title": "The Bachelor Franchise",
+    "description": "A single bachelor dates multiple women over several weeks, narrowing them down to hopefully find his true love.",
+    "image_path": "https://artcrimearchive.net/wp-content/uploads/2021/10/the-bachelor-d2a0c085426ce8d8194122665a07b1d0.jpg",
+    "starring": "Jesse Palmer, Chris Harrison",
+    "years": "2002-Present",
+    "network": "ABC",
+    "rotten_tomatoes": "--%",
+    "genres": [
+      {
+        "name": "Reality"
+      }
+    ]
+  },
+  {
+    "title": "The Office",
+    "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+    "image_path": "https://mypostercollection.com/wp-content/uploads/2019/06/the-office-1024x576.jpg",
+    "starring": "Steve Carell, Rainn Wilson, John Krasinski, Jenna Fischer, Ed Helms",
+    "years": "2005-2013",
+    "network": "NBC",
+    "rotten_tomatoes": "81%",
+    "genres": [
+      {
+        "name": "Mockumentary"
+      },
+      {
+        "name": "Sitcom"
+      },
+      {
+        "name": "Cringe Comedy"
+      }
+    ]
+  },
+  {
+    "title": "Schitt's Creek",
+    "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
+    "image_path": "https://m.media-amazon.com/images/I/61+pCWKF1hL._AC_SL1024_.jpg",
+    "starring": "Eugene Levy, Catherine O'Hara, Daniel Levy, Annie Murphy, Chris Elliott",
+    "years": "2015-2020",
+    "network": "Netflix",
+    "rotten_tomatoes": "93%",
+    "genres": [
+      {
+        "name": "Sitcom"
+      },
+      {
+        "name": "Satire"
+      },
+      {
+        "name": "Comedy-Drama"
+      }
+    ]
+  },
+  {
+    "title": "Dawson's Creek",
+    "description": "Four friends in a small coastal town help each other cope with adolescence.",
+    "image_path": "https://static.wikia.nocookie.net/dawsonscreek/images/4/41/Cast1season.jpeg/revision/latest/scale-to-width-down/1200?cb=20160422225502",
+    "starring": "James Van Der Beek, Katie Holmes, Joshua Jackson, Michelle Williams, Kerr Smith",
+    "years": "1998-2003",
+    "network": "WB",
+    "rotten_tomatoes": "--%",
+    "genres": [
+      {
+        "name": "Teen Drama"
+      },
+      {
+        "name": "Romance"
+      },
+      {
+        "name": "Serial Drama"
+      }
+    ]
+  },
+  {
+    "title": "Ted Lasso",
+    "description": "American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League football team.",
+    "image_path": "https://image.tmdb.org/t/p/original//39rtdG2QoPIOISmS6KNdJDes8vy.jpg",
+    "starring": "Jason Sudeikis, Hannah Waddingham, Juno Temple, Jeremy Swift, Phil Dunster",
+    "years": "2020-Present",
+    "network": "Apple TV",
+    "rotten_tomatoes": "95%",
+    "genres": [
+      {
+        "name": "Comedy-Drama"
+      },
+      {
+        "name": "Sports"
+      }
+    ]
+  },
+  {
+    "title": "Ted Lasso",
+    "description": "American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League football team.",
+    "image_path": "https://image.tmdb.org/t/p/original//39rtdG2QoPIOISmS6KNdJDes8vy.jpg",
+    "starring": "Jason Sudeikis, Hannah Waddingham, Juno Temple, Jeremy Swift, Phil Dunster",
+    "years": "2020-Present",
+    "network": "Apple TV",
+    "rotten_tomatoes": "95%",
+    "genres": [
+      {
+        "name": "Comedy-Drama"
+      },
+      {
+        "name": "Sports"
+      }
+    ]
+  },
