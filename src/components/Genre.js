@@ -1,6 +1,6 @@
 import { createPortal } from 'react-dom'
 
-// genres: Sitcom, Mockumentary, Cringe Comedy, Political Satire, Crime Drama, Thriller, Neo-Western, Black Comedy, Tragedy, Comedy-Drama, Historical Fiction, Satire, Period Drama, Science Fiction, Alternate History, Drama, Comedy, Action, Adventure, Fantasy, Teen Drama, Coming-of-Age, Romantic Comedy, Family Drama, Mystery, Dystopia, Reality, Horror, Sports, Historial Fiction, Serial Drama, Political Drama, Romance, Medical Drama, Romantic Drama
+// genres: Sitcom, Mockumentary, Cringe Comedy, Political Satire, Crime Drama, Thriller, Neo-Western, Black Comedy, Tragedy, Comedy-Drama, Historical Fiction, Satire, Period Drama, Science Fiction, Alternate History, Drama, Comedy, Action, Adventure, Fantasy, Teen Drama, Coming-of-Age, Romantic Comedy, Family Drama, Mystery, Dystopia, Reality, Horror, Sports, Historial Fiction, Serial Drama, Political Drama, Romance, Medical Drama, Romantic Drama, Psychological Thriller
 
 const Genre = (props) => {
   let color
@@ -16,25 +16,25 @@ const Genre = (props) => {
       color = 'darkkhaki'
       break
     case 'Political Satire':
-      color = 'orangered'
+      color = 'red'
       break
     case 'Crime Drama':
-      color = 'darkviolet'
+      color = 'silver'
       break
     case 'Thriller':
-      color = 'firebrick'
+      color = 'peru'
       break
     case 'Neo-Western':
       color = 'navajowhite'
       break
     case 'Black Comedy':
-      color = 'greenyellow'
+      color = 'lime'
       break
     case 'Tragedy':
-      color = 'darkred'
+      color = 'indianred'
       break
     case 'Comedy-Drama':
-      color = 'dodgerblue'
+      color = 'mediumturquoise'
       break
     case 'Historical Fiction':
       color = 'gold'
@@ -43,7 +43,7 @@ const Genre = (props) => {
       color = 'mediumvioletred'
       break
     case 'Period Drama':
-      color = 'mediumturquoise'
+      color = 'papayawhip'
       break
     case 'Science Fiction':
       color = 'mediumspringgreen'
@@ -58,7 +58,7 @@ const Genre = (props) => {
       color = 'palegreen'
       break
     case 'Action':
-      color = 'indianred'
+      color = 'darkorange'
       break
     case 'Adventure':
       color = 'mediumseagreen'
@@ -76,10 +76,10 @@ const Genre = (props) => {
       color = 'salmon'
       break
     case 'Family Drama':
-      color = 'mediumpurple'
+      color = 'thistle'
       break
     case 'Mystery':
-      color = 'lightslategray'
+      color = 'mediumpurple'
       break
     case 'Dystopia':
       color = 'lightcyan'
@@ -88,7 +88,7 @@ const Genre = (props) => {
       color = 'whitesmoke'
       break
     case 'Horror':
-      color = 'maroon'
+      color = 'orangered'
       break
     case 'Sports':
       color = 'powderblue'
@@ -97,7 +97,7 @@ const Genre = (props) => {
       color = 'rosybrown'
       break
     case 'Serial Drama':
-      color = 'mediumblue'
+      color = 'dodgerblue'
       break
     case 'Political Drama':
       color = 'crimson'
@@ -106,10 +106,16 @@ const Genre = (props) => {
       color = 'pink'
       break
     case 'Medical Drama':
-      color = 'slategray'
+      color = 'lightblue'
       break
     case 'Romantic Drama':
       color = 'palevioletred'
+      break
+    case 'Psychological Thriller':
+      color = 'tomato'
+      break
+    default:
+      color = 'gainsboro'
       break
   }
 
