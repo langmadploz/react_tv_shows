@@ -329,19 +329,247 @@
     ]
   },
   {
-    "title": "Ted Lasso",
-    "description": "American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League football team.",
-    "image_path": "https://image.tmdb.org/t/p/original//39rtdG2QoPIOISmS6KNdJDes8vy.jpg",
-    "starring": "Jason Sudeikis, Hannah Waddingham, Juno Temple, Jeremy Swift, Phil Dunster",
-    "years": "2020-Present",
-    "network": "Apple TV",
-    "rotten_tomatoes": "95%",
+    "title": "The Marvelous Mrs. Maisel",
+    "description": "After her husband leaves her, young mother of two Miriam 'Midge' Maisel discovers that she has a talent for stand-up comedy. Could this be her calling?",
+    "image_path": "https://media.glamour.com/photos/62014f70c60eaf08b96e1bb5/master/w_1600%2Cc_limit/MRSM_S4_OneSheet_27x40_ROOFTOP_EVRGRN_FINAL_ANDRE.jpeg",
+    "starring": "Rachel Brosnahan, Michael Zegen, Alex Borstein, Tony Shalhoub, Marin Hinkle",
+    "years": "2017-Present",
+    "network": "Amazon",
+    "rotten_tomatoes": "89%",
     "genres": [
       {
         "name": "Comedy-Drama"
       },
       {
-        "name": "Sports"
+        "name": "Period Drama"
       }
     ]
   },
+  {
+    "title": "For All Mankind",
+    "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+    "image_path": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blta92a35d6defc2afc/629a315301bb817204501561/for-all-mankind-season-three-tv-show-poster-banner-01-700x400-1-700x400.jpeg",
+    "starring": "Joel Kinnaman, Shantel VanSanten, Jodi Balfour, Sonya Walger, Krys Marshall",
+    "years": "2019-Present",
+    "network": "Apple TV",
+    "rotten_tomatoes": "91%",
+    "genres": [
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Alternate History"
+      },
+      {
+        "name": "Drama"
+      }
+    ]
+  },
+  {
+    "title": "The West Wing",
+    "description": "Inside the lives of staffers in the West Wing of the White House.",
+    "image_path": "https://preview.redd.it/y3dzshpu8as01.jpg?auto=webp&s=9d23041f1564482d1f8988251131001308754282",
+    "starring": "Martin Sheen, Stockard Channing, John Spencer, Bradley Whitford, Allison Janney",
+    "years": "1999-2006",
+    "network": "NBC",
+    "rotten_tomatoes": "75%",
+    "genres": [
+      {
+        "name": "Serial Drama"
+      },
+      {
+        "name": "Political Drama"
+      }
+    ]
+  },
+  {
+    "title": "Queer Eye",
+    "description": "A new Fab Five set out to Atlanta to help some of the city's people refine their wardrobes, grooming, diet, cultural pursuits, and home décor.",
+    "image_path": "https://m.media-amazon.com/images/M/MV5BNWE3ZDAwM2YtYThjMi00OTdlLThjYzctZWU4MmE1ZjY3MmI5XkEyXkFqcGdeQXVyNTg4ODkzODA@._V1_.jpg",
+    "starring": "Antoni Porowski, Bobby Berk, Karamo Brown, Jonathan Van Ness, Tan France",
+    "years": "2018-Present",
+    "network": "Netflix",
+    "rotten_tomatoes": "--%",
+    "genres": [
+      {
+        "name": "Reality"
+      }
+    ]
+  },
+  {
+    "title": "So You Think You Can Dance",
+    "description": "Dancers skilled in everything from ballroom and ballet to salsa, jive, hip-hop and krumping, all compete to be named the best.",
+    "image_path": "https://img.hulu.com/user/v3/artwork/5e83907c-eed7-4bc9-8dfb-512399353f88?base_image_bucket_name=image_manager&base_image=2a1c04c5-acff-4b25-a5fa-7eac057d099f&size=1200x630&format=jpeg&operations=%5B%7B%22gradient_vector%22%3A%22(0%2C0%2C0%2C0.5)%7C(0%2C0%2C0%2C0)%7C(0%2C600)%7C(0%2C240)%22%7D%2C%7B%22overlay%22%3A%7B%22position%22%3A%22SouthEast%7C(30%2C30)%22%2C%22operations%22%3A%5B%7B%22image%22%3A%22image_manager%7Cf37d5d25-7a8b-4f99-88eb-a042cc6ffd7e%22%7D%2C%7B%22resize%22%3A%22204x204%7Cmax%22%7D%2C%7B%22extent%22%3A%22204x204%22%7D%5D%7D%7D%2C%5D",
+    "starring": "Cat Deeley, Stephen 'tWitch' Boss, JoJo Siwa, Leah Remini, Nigel Lythgoe",
+    "years": "2005-Present",
+    "network": "Fox",
+    "rotten_tomatoes": "--%",
+    "genres": [
+      {
+        "name": "Reality"
+      }
+    ]
+  },
+  {
+    "title": "The Bold Type",
+    "description": "A glimpse into the outrageous lives and loves of those responsible for a global women's magazine.",
+    "image_path": "https://pics.filmaffinity.com/The_Bold_Type_TV_Series-743320308-large.jpg",
+    "starring": "Katie Stevens, Aisha Dee, Meghann Fahy, Sam Page, Matt Ward",
+    "years": "2017-2021",
+    "network": "Netflix",
+    "rotten_tomatoes": "89%",
+    "genres": [
+      {
+        "name": "Comedy-Drama"
+      }
+    ]
+  },
+  {
+    "title": "This Is Us",
+    "description": "A heartwarming and emotional story about a unique set of triplets, their struggles and their wonderful parents.",
+    "image_path": "https://wegotthiscovered.com/wp-content/uploads/2022/01/ThisIsUs-1200x900.jpeg",
+    "starring": "Milo Ventimiglia, Mandy Moore, Sterling K. Brown, Chrissy Metz, Justin Hartley",
+    "years": "2016-2022",
+    "network": "NBC",
+    "rotten_tomatoes": "94%",
+    "genres": [
+      {
+        "name": "Family Drama"
+      },
+      {
+        "name": "Romantic Drama"
+      },
+      {
+        "name": "Tragedy"
+      }
+    ]
+  },
+  {
+    "title": "The Great British Baking Show",
+    "description": "Bakers attempt three challenges each week trying to impress the judges enough to go through to the next round and eventually are crowned Britain's best amateur baker.",
+    "image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAo7iu29H9mv1g2IjY6sHc1veuD92boFQO5EeYpmX6M2fjhFCXp3hnvysN0KXY71gEF8&usqp=CAU",
+    "starring": "Paul Hollywood, Noel Fielding, Prue Leith, Matt Lucas, Sandi Toksvig",
+    "years": "2010-Present",
+    "network": "Netflix",
+    "rotten_tomatoes": "89%",
+    "genres": [
+      {
+        "name": "Reality"
+      }
+    ]
+  },
+  {
+    "title": "Friends",
+    "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "image_path": "https://i5.walmartimages.com/asr/19714673-e825-4924-ab0a-6e3cd1b00ddf.c9ad5d169cec9da7b501886eb4dc6bc5.jpeg",
+    "starring": "Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, David Schwimmer",
+    "years": "1994-2004",
+    "network": "NBC, Netflix",
+    "rotten_tomatoes": "79%",
+    "genres": [
+      {
+        "name": "Sitcom"
+      }
+    ]
+  },
+  {
+    "title": "Never Have I Ever",
+    "description": "The complicated life of a modern-day first generation Indian American teenage girl, inspired by Mindy Kaling's own childhood.",
+    "image_path": "https://netflixjunkie.com/wp-content/uploads/2022/04/903782-neverhaveiever-review.jpg",
+    "starring": "Maitreyi Ramakrishnan, Richa Moorjani, Poorna Jagannathan, Jaren Lewison, Darren Barnet",
+    "years": "2020-2023",
+    "network": "Netflix",
+    "rotten_tomatoes": "94%",
+    "genres": [
+      {
+        "name": "Comedy-Drama"
+      },
+      {
+        "name": "Coming-of-Age"
+      },
+      {
+        "name": "Teen Drama"
+      }
+    ]
+  },
+  {
+    "title": "Only Murders In The Building",
+    "description": "Three strangers who share an obsession with true crime suddenly find themselves caught up in one.",
+    "image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QNH1a9scsK4kKH5iYDnK80ob7Tj9xvD6tw&usqp=CAU",
+    "starring": "Steve Martin, Martin Short, Selena Gomez, Aaron Dominguez, Amy Ryan",
+    "years": "2021-Present",
+    "network": "Hulu",
+    "rotten_tomatoes": "100%",
+    "genres": [
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Mystery"
+      }
+    ]
+  },
+  {
+    "title": "Grey's Anatomy",
+    "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+    "image_path": "https://static.wikia.nocookie.net/greysanatomy/images/e/e6/GreysAnatomyS18Poster.JPG/revision/latest?cb=20210914205701",
+    "starring": "Ellen Pompeo, Chandra Wilson, James Pickens Jr., Kevin McKidd, Caterina Scorsone",
+    "years": "2005-Present",
+    "network": "ABC",
+    "rotten_tomatoes": "84%",
+    "genres": [
+      {
+        "name": "Medical Drama"
+      },
+      {
+        "name": "Romantic Drama"
+      },
+      {
+        "name": "Comedy-Drama"
+      }
+    ]
+  },
+  {
+    "title": "The Morning Show",
+    "description": "An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual.",
+    "image_path": "https://pics.filmaffinity.com/The_Morning_Show_TV_Series-287858418-large.jpg",
+    "starring": "Jennifer Aniston, Reese Witherspoon, Steve Carell, Billy Crudup, Mark Duplass",
+    "years": "2019-Present",
+    "network": "Apple TV",
+    "rotten_tomatoes": "64%",
+    "genres": [
+      {
+        "name": "Drama"
+      }
+    ]
+  },
+  {
+    "title": "Outlander",
+    "description": "An English combat nurse from 1945 is mysteriously swept back in time to 1743.",
+    "image_path": "https://claireandjamie.com/files/image-exchange/2017/07/ie_36033.jpeg",
+    "starring": "Caitriona Balfe, Sam Heughan, Sophie Skelton, Richard Rankin, Duncan Lacroix",
+    "years": "2014-Present",
+    "network": "Starz",
+    "rotten_tomatoes": "89%",
+    "genres": [
+      {
+        "name": "Historical Fiction"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Romance"
+      },
+      {
+        "name": "Period Drama"
+      }
+    ]
+  }
+]
