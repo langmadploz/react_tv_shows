@@ -82,6 +82,7 @@ margin-top: 10px;
   justify-content: center;
   flex-direction: row;
   align-items: center;
+  font-style: oblique;
 }
 
 .show {
